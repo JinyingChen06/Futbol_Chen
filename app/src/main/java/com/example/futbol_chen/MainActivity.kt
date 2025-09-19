@@ -85,6 +85,14 @@ fun FutbolPeople(modifier: Modifier = Modifier) {
 
 
 
-@Preview(showBackground = true)
+@Preview(name = "English", showBackground = true, locale = "en")
 @Composable
-fun FutbolPreview() { FutbolPeople() }
+fun FutbolPreviewEn() { FutbolPeople() }
+
+@Preview(name = "Català", showBackground = true, locale = "ca")
+@Composable
+fun Ca() { FutbolPeople() }
+
+@Preview(name = "Español", showBackground = true, locale = "es")
+@Composable
+fun FutbolPreviewEp() { FutbolPeople() }
