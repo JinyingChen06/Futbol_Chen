@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Activitat1_Futbol</string>
+
+    <string name="fitxa_titol">Futbol</string>
+
+    <string name="nom_label">Name</string>
+    <string name="nom_value">Lionel Andrés Messi Cuccittini</string>
+
+    <string name="nacionalitat_label">Nationality</string>
+    <string name="nacionalitat_value">Argentina</string>
+
+    <string name="naix_label">Date of birth</string>
+    <string name="naix_value">24/06/1987</string>
+
+    <string name="debut_label">Date year</string>
+    <string name="debut_value">2004</string>
+
+    <string name="team_label">Current team</string>
+    <string name="team_value">Inter Miami</string>
+</resources>
